@@ -6,4 +6,4 @@ The purpose of this project was to refactor the HTML and CSS for the Horiseon we
 
 ![Screen shot of application](./Assets/screen-shot.png)
 
-[Link to application](https://jboyce313.github.io/module-1-challenge/)
+[Link to application](https://jboyce313.github.io/challenge-1/)
